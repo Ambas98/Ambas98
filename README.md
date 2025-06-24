@@ -1,5 +1,5 @@
 # 👨‍💻 ¡Hola! Soy Nicolás  
-### **🚀 Desarrollador Full Stack | Especializado en Back-End con TypeScript**  
+### **🚀 Desarrollador Full Stack | Especializado en Back-End**  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nicolasambas/">
