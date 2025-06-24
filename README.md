@@ -27,6 +27,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ambas98&layout=compact&theme=radical" alt="Lenguajes"/>
+</div>
+
+---
+
 ## **📌 Sobre Mí**  
 - 💻 **Graduado** del bootcamp intensivo **Henry** con especialización en tecnologías Back-End.  
 - 🧠 **Base académica**: 2 años de **Ciencias de la Computación** en la Universidad Nacional.  
@@ -46,5 +52,3 @@
 ¿Buscas un desarrollador Back-End con bases sólidas y pasión por la eficiencia?  
 🔗 [LinkedIn](https://www.linkedin.com/in/nicolasambas/)
 
-📈 **Mis estadísticas**  
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dracula)
