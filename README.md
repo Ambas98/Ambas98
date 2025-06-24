@@ -46,3 +46,5 @@
 ¿Buscas un desarrollador Back-End con bases sólidas y pasión por la eficiencia?  
 🔗 [LinkedIn](https://www.linkedin.com/in/nicolasambas/)
 
+📈 **Mis estadísticas**  
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dracula)
