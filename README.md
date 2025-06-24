@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/nicolasambas/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="nicolasambas@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
 
 ---
@@ -47,5 +44,5 @@
 
 ## **📫 ¡Conectemos!**  
 ¿Buscas un desarrollador Back-End con bases sólidas y pasión por la eficiencia?  
-🔗 [LinkedIn](https://www.linkedin.com/in/nicolasambas/) | ✉️ [Email](nicolasambas@gmail.com.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/nicolasambas/)
 
