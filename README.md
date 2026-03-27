@@ -31,7 +31,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ambas98&layout=compact&theme=radical" alt="Lenguajes"/>
+  <img src="https://skillicons.dev/icons?i=nestjs,ts,nodejs,postgres,typeorm,react,js,git&theme=dark" alt="Tech Stack"/>
 </div>
 
 ---
