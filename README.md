@@ -10,7 +10,9 @@
 ---
 
 ## **🛠 Stack Tecnológico**  
+
 **Back-End:**  
+
 <div align="left">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
   <img src="https://img.shields.io/badge/TypeORM-262627?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM"/>
@@ -20,6 +22,7 @@
 </div>
 
 **Front-End:**  
+
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -51,4 +54,3 @@
 ## **📫 ¡Conectemos!**  
 ¿Buscas un desarrollador Back-End con bases sólidas y pasión por la eficiencia?  
 🔗 [LinkedIn](https://www.linkedin.com/in/nicolasambas/)
-
